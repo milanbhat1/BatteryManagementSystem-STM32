@@ -50,7 +50,7 @@ To develop a low-cost and efficient BMS using ARM-based embedded systems capable
 Below is the schematic of the system:
 
 <p align="center">
-  <img src="images/circuit_diagram.png" alt="Circuit Diagram" width="600"/>
+  <img src="images/circuit_diagram.png" alt="Circuit Diagram" width="800"/>
 </p>
 
 ## Group Photo and Hardware Output
@@ -58,13 +58,13 @@ Below is the schematic of the system:
 ### Group Photo
 
 <p align="center">
-  <img src="images/group_photo.jpg" alt="Group Photo" width="600"/>
+  <img src="images/group_photo.jpg" alt="Group Photo" width="800"/>
 </p>
 
 ### OLED Output - Battery > 20%
 
 <p align="center">
-  <img src="images/hardware_above.jpg" alt="OLED - Above Threshold" width="400"/>
+  <img src="images/hardware_above.jpg" alt="OLED - Above Threshold" width="800"/>
 </p>
 
 - Green LED ON  
@@ -74,7 +74,7 @@ Below is the schematic of the system:
 ### OLED Output - Battery < 20%
 
 <p align="center">
-  <img src="images/hardware_below.jpg" alt="OLED - Below Threshold" width="400"/>
+  <img src="images/hardware_below.jpg" alt="OLED - Below Threshold" width="800"/>
 </p>
 
 - Red LED ON  
