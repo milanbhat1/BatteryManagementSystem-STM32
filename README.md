@@ -58,13 +58,13 @@ Below is the schematic of the system:
 ### Group Photo
 
 <p align="center">
-  <img src="images/group_photo.jpg" alt="Group Photo" width="800"/>
+  <img src="images/group_photo.jpg" alt="Group Photo" width="700"/>
 </p>
 
 ### OLED Output - Battery > 20%
 
 <p align="center">
-  <img src="images/hardware_above.jpg" alt="OLED - Above Threshold" width="800"/>
+  <img src="images/hardware_above.jpg" alt="OLED - Above Threshold" width="700"/>
 </p>
 
 - Green LED ON  
@@ -74,7 +74,7 @@ Below is the schematic of the system:
 ### OLED Output - Battery < 20%
 
 <p align="center">
-  <img src="images/hardware_below.jpg" alt="OLED - Below Threshold" width="800"/>
+  <img src="images/hardware_below.jpg" alt="OLED - Below Threshold" width="700"/>
 </p>
 
 - Red LED ON  
